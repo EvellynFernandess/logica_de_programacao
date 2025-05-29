@@ -1,0 +1,90 @@
+1. Pressione a tecla Windows + E para abrir o explorador de Windows, Pressionar
+Ctrl + A para selecionar todos os arquivos da pasta, navegue até a pasta
+“Projetos” pelo navegador de arquivos, por fim com os documentos
+selecionados, clique com o botão direito em qualquer um dos arquivos
+selecionados e escolha Mover para, selecione a pasta Projetos.
+2. Verificar se a impressora está ligada e a conexão da impressora, verifique o
+status da impressora no Windows:
+ Abra o Menu Iniciar e digite &quot;Impressoras e scanners&quot;.
+ Clique na opção Impressoras e scanners.
+ Na lista de impressoras, procure pela impressora que Maria está usando e veja
+se há algum status de erro, como &quot;Offline&quot; ou &quot;Em espera&quot;. Se a impressora
+estiver offline, clique com o botão direito sobre ela e selecione &quot;Usar
+impressora online&quot;.
+3. Pressione Ctrl + Shift + Esc para abrir diretamente o Gerenciador de Tarefas
+para abrir o gerenciador de tarefas, na aba Processos, Pedro verá uma lista dos
+aplicativos e processos em execução, procure o programa que travou. Ele deve
+aparecer na seção Aplicativos. Por fim clique com o botão direito sobre o nome
+do programa travado e selecione Finalizar tarefa, para encerrar o programa.
+4. Verifique e instale as atualizações pendentes, reiniciar o computador pode ser
+necessário após a instalação das atualizações para completar o processo. Ana
+pode configurar as atualizações automáticas para garantir que o sistema
+sempre mantenha as atualizações em dia sem a necessidade de intervenção
+manual. É importante manter o sistema atualizado por segurança, melhor
+desempenho do sistema, garantir que o computador continue compatível com
+novos programas, dispositivos e versões de outros Software, utilização de
+novos recursos e correção de erros.
+5. Lucas deve evitar abrir o arquivo até que ele tenha certeza de que é seguro,
+verifique as informações fornecidas pelo Windows para identificar qual é o tipo
+de ameaça identificado. Coloque o arquivo em quarentena se o Windows
+Defender já indicou que o arquivo é perigoso, Lucas pode optar por colocar o
+arquivo em quarentena, clique em Ação recomendada e escolha colocar em
+quarentena ou remover se o Windows Defender já tiver sugerido essa ação. Por
+último Lucas deve garantir que o Windows Defender esteja atualizado para a
+versão mais recente para garantir que ele tenha as definições de vírus mais
+atuais.
+
+6. Usar a Limpeza de Disco do Windows, pode ajudar a liberar espaço
+automaticamente ao remover arquivos temporários e desnecessários.
+Desinstale programas desnecessários, mova arquivos para outra unidade ou
+para a nuvem, limpe o histórico e os caches dos navegadores, remova pontos
+de restauração antigos (o Windows cria pontos de restauração do sistema, que
+são úteis em caso de problemas, mas eles podem ocupar muito espaço ao
+longo do tempo), utilize o Armazenamento Otimizado do Windows e exclua os
+arquivos grandes.
+7. Verifique se o modo avião está desativado, reinicie o computador e o roteador,
+verifique as conexões de rede no computador, conecte-se manualmente à rede
+Wi-Fi, execute o solucionador de problemas de rede (o Windows tem uma
+ferramenta de solução de problemas de rede que pode ajudar a identificar e
+corrigir automaticamente o problema), certifique-se de que o computador está
+obtendo um endereço IP válido, verifique se o roteador está com configuração
+correta.
+8. Acesse as configurações de contas de usuário, adicione uma nova conta de
+usuário, defina as permissões de usuário, por fim, se necessário, configure
+essas permissões.
+9. Verifique a lixeira, use o histórico de arquivos, se a Fernanda tiver, use o
+backup para restaurar a pasta, se nenhuma das opções funcionar, Fernanda
+pode tentar usar um software de recuperação de arquivos para tentar
+restaurar a pasta excluída.
+10. Abra as Configurações, vá para aplicativos, configure o navegador padrão,
+escolha o novo navegador, se necessário, faça as configurações avançadas,
+feche as configurações e teste clicando em um link ou abrindo uma página da
+web para verificar se o navegador escolhido é aberto automaticamente.
+11. Abrir as Configurações de Exibição, ajuste a resolução, escolha a resolução
+recomendada, isso fará com que os ícones e as imagens fiquem mais nítidos e
+proporcionais à tela, aplique as alterações, se necessário, ajuste o tamanho do
+texto e dos ícones, caso necessário, reinicie o computador.
+12. Ajustar o Tamanho do Texto, na seção Escala e Layout Beatriz pode aumentar o
+tamanho do texto, aplicativos e outros itens, depois de escolher o valor
+desejado, as alterações serão aplicadas automaticamente, para melhor
+visibilidade, ative o Modo de Alto Contraste, se o aluno também tem
+dificuldade em distinguir os textos devido ao contraste, ele pode usar o Modo
+de Alto Contraste para facilitar a leitura. Ajuste o Tamanho do Texto com o
+Ferramenta de Lupa, para navegação na web altere o Tamanho da Fonte em
+Sites, por último, altere o Tamanho das Fontes no Sistema.
+
+13. Abra as Configurações de Recuperação, acesse a Restauração do Sistema,
+escolha um Ponto de Restauração, o Windows mostrará uma lista de pontos de
+restauração disponíveis, selecione um ponto de restauração anterior à
+instalação do programa suspeito, confirme a Restauração, agora aguarde a
+Restauração.
+14. Abrir o Menu Iniciar, encontre o Microsoft Word, selecione &quot;Abrir local do
+arquivo&quot;, crie o atalho, acesse pela área de trabalho, para fixar o Word na barra
+de tarefas, abra o Menu Iniciar, quando o Microsoft Word aparecer nos
+resultados de pesquisa, clique com o botão direito sobre o ícone e selecione
+Fixar na barra de tarefas.
+
+15. Abra o Gerenciador de Tarefas, vá para a aba de Inicialização, desabilite
+programas desnecessários, com o botão direito sobre qualquer programa que
+ele não precise iniciar automaticamente e selecione Desabilitar, por fim,
+reinicie o computador para que as alterações entrem em vigor.
